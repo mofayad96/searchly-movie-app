@@ -1,4 +1,9 @@
 🎬 Searchly - Movie Discovery App
+
+Access the website 
+https://searchlyapp.netlify.app/
+
+
 🚀 Setup Instructions
 Prerequisites
 
